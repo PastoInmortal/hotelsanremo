@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<title>HOTEL SAN REMO</title>
+		<meta charset="utf-8">
+		<link href="estilos.css" rel="stylesheet" type="text/css">
+		<link rel="icon" href="img/logo_fav.png" type="image/x-icon">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+	<body>
+	
+		<div class="pa">
+			<header>
+				<div class="logo">
+					<a href="#" title="Volver al inicio">
+						<img src="img/logo.png" alt="recepcion">
+					</a>
+				 </div>
+				 
+				 <nav>
+				 
+					<a href="habitaciones.html" title="A Habitaciones">
+						HABITACIONES
+					</a>
+					
+					<a href="empresa.html" title="Servicios">
+						SERVICIOS
+					</a>
+					
+					<a href="servicios.html" title="Nuestros Galeria">
+						GALERIA
+					</a>
+					
+					<a href="productos.html" title="Nuestros Contacto">
+						CONTACTO
+					</a>
+					
+					<a href="contacto.html" title="Reservas">
+						RESERVAS
+					</a>
+					
+				</nav>
+				
+			</header>
+			
+		<main>
+			<div class="img">
+	
+			</div>
+				
+			<div class="texto">
+				<h1> BIENVENIDOS AL HOTEL SAN REMO</h1>
+					<h2> 20 años proporcionando un espacio de comodidad y relax </h2>
+			</div>
+			
+			<div class="tarjetas">
+			
+				<div class="card">
+					<div class="icono">
+						<img src="img/iconos/recepcion.png" alt="recepcion">
+					</div>
+					
+					<div class="txt">
+						<h1>RECEPCIÓN</h1>
+							<p>	Un amplio espacio para hacer sociales, para tomar un café o disfrutar de un trago en pareja o solo. Amplia recepción climatizada.
+							Ideal para descansar y distenderse viendo una película o bien haciendo sociales, en un cálido espacio.
+							</p>
+					</div>		
+				</div>
+				
+				
+				<div class="card">
+					<div class="icono">
+					<img src="img/iconos/hab_std.png" alt="recepcion">
+					</div>
+					
+					<div class="txt">
+						<h1>HABITACIONES STANDARD</h1>
+							<p>El hotel cuenta con 32 habitaciones Standard, distribuidas hacia los laterales del hotel, brindando una vista a la Bahía o al Puerto de Yates.
+							Están equipadas con aire acondicionado frío/calor, televisores, frigobar y secador de pelo en el baño.
+							</p>
+					</div>		
+				</div>
+				
+				
+				<div class="card">
+					<div class="icono">
+					<img src="img/iconos/hab_sup.png" alt="recepcion">
+					</div>
+					
+					<div class="txt">
+						<h1>HABITACIONES SUPERIORES</h1>
+							<p>El hotel cuenta con 7 habitaciones superiores. Todas tienen unas excelentes vistas panorámicas hacia toda la Bahía. 
+							Están equipadas con aire acondicionado frío/calor, televisores, frigobar y secador de pelo en el baño.
+							</p>
+					</div>		
+				</div>
+				
+				
+				<div class="card">
+					<div class="icono">
+					<img src="img/iconos/salon.png" alt="recepcion">
+					</div>
+					
+					<div class="txt">
+						<h1>SALÓN COMEDOR</h1>
+							<p>Los atardeceres son el sueño del salón comedor, con grandes ventanales que permiten apreciar el entorno.
+							El salón es donde se sirve el desayuno y donde funciona el restaurante del hotel. 
+							Tiene una inigualable vista panorámica de la ciudad.
+							</p>
+					</div>		
+				</div>
+				
+				
+				<div class="card">
+					<div class="icono">
+					<img src="img/iconos/juegos.png" alt="recepcion">
+					</div>
+					
+					<div class="txt">
+						<h1>SALA DE JUEGOS</h1>
+							<p>El sector de juegos está diseñado y equipado para que pase un momento de diversión. Cuenta con dos mesas de Pool,
+							dos mesas de Ping Pong, seis computadoras con acceso a internet de libre uso y un sector de juegos blandos para los más chicos.
+							</p>
+					</div>		
+				</div>
+				
+				
+				<div class="card">
+					<div class="icono">
+					<img src="img/iconos/piscina.png" alt="recepcion">
+					</div>
+					
+					<div class="txt">
+						<h1>PISCINA CLIMATIZADA E HIDROMASAJE</h1>
+							<p>Relax para los grandes y juego para los chicos. Excelente espacio para pasar las tardes. 
+							El espacio esta acondicionado con un hidromasaje para 4 personas y una excelente piscina climatizada.
+							</p>
+					</div>		
+				</div>
+				
+				
+				
+			</div>
+		</main>
+			
+			<footer>
+				<div class="logo_f">
+				<img src="img/logo_footer.png" alt="recepcion">
+				</div>
+				
+				<div class="contacto">
+					<p>Av. de los Constituyenes 3421 - Mar del Plata - Argentina</p>
+					<p>Tel. +54 9 223 128-4577</p>
+					<img src="img/iconos/instagram.png" alt="Instagram">
+					<img src="img/iconos/facebook.png" alt="Facebook">
+				</div>
+				
+				<div class="iconos_ex">
+					<img src="img/iconos/cardio.png" alt="Edificio Cardioasistido">
+					<img src="img/iconos/eco.png" alt="Eco">
+					<img src="img/iconos/libre.png" alt="Smoke (del MK)">
+				</div>
+				
+			</footer>
+			
+		</div>
+	</body>
+</html>
+			
+			
+			
+			
+			
